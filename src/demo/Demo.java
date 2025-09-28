@@ -1,8 +1,5 @@
 package demo;
 
-/**
- * Change from luna
- */
 public class Demo {
 	public static void main(String[] args)
 	{
