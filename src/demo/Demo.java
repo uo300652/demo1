@@ -1,7 +1,7 @@
 package demo;
 
 /**Change from luna**/
-/**Change 2 from luna from master**/
+
 public class Demo {
 	public static void main(String[] args)
 	{
