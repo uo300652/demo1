@@ -6,7 +6,7 @@ public class Demo {
 	public static void main(String[] args)
 	{
 		System.out.println("linea 1");
-		System.out.println("linea 2");
+		System.out.println("change 3 mars in conflict");
 		System.out.println("linea 3");
 		/*Change from mars*/
 		/*Change 2 from mars from change2*/
